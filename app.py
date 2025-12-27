@@ -34,12 +34,7 @@ except:
 # Custom CSS
 st.markdown("""
     <style>
-    .main {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    }
-    
     h1 {
-        color: #ffffff;
         text-align: center;
         text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         font-weight: 600;
@@ -47,13 +42,13 @@ st.markdown("""
     
     .subtitle {
         text-align: center;
-        color: rgba(255, 255, 255, 0.9);
         font-size: 1.1em;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         margin-bottom: 2rem;
     }
     
     .stButton>button {
-        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        background: #1e88e5;
         color: white;
         border: none;
         border-radius: 10px;
