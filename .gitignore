@@ -1,0 +1,14 @@
+# .gitignore
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pth
+*.pkl
+.venv/
+.vscode/
+inference/
+.DS_Store
+huggingfacetoken.txt
+best_config.json
+class_info.json
+upload_to_hf.py

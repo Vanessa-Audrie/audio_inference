@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+huggingface-hub
+librosa
+soundfile
+scikit-learn
+numpy
+matplotlib
