@@ -15,7 +15,6 @@ import librosa.display
 # Page config
 st.set_page_config(
     page_title="Audio Emotion & Stress Classifier",
-    page_icon="🎤",
     layout="wide",
     initial_sidebar_state="expanded"
 )
